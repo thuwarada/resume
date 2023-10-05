@@ -1,0 +1,20 @@
+h1{
+font-family: 'Kanit', sans-serif;
+  color: #6A452C;
+}
+h5{
+color: #6f4616;
+}
+.myborder{
+  border: 1px solid #6f4616;
+  border-radius: 10px;
+  padding: 5px;
+}
+.mybd{
+border-bottom-style: solid;
+  border-color: #6f4616;
+  border-width: 1px;
+}
+body{
+background-color: #E9E2D7;
+}
